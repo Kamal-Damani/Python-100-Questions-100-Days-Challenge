@@ -1,9 +1,11 @@
-# 🐍 100 Days – 100 Python Questions
+# 🐍 Welcome to My 100 Days – 100 Python Questions Challenge!
 
-A daily Python coding challenge to improve my **programming fundamentals, logic, and problem-solving skills**.
+👋 **Hello and welcome!**
+
+This repository documents my journey of solving **1 Python question every day for 100 days** to improve my programming fundamentals, logic, and problem-solving skills.
 
 ## 🎯 Goal
-Solve **1 Python question every day for 100 days**.
+Solve **100 Python questions in 100 days**.
 
 ## 📚 Topics
 - Python Basics
