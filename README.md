@@ -15,7 +15,8 @@ Solve **100 Python questions in 100 days**.
 - Functions
 - Strings
 - Problem Solving
-- OOP & more
+- OOP & more..
+
 
 ## 📈 Progress
 **Day 1 / 100** ✅
